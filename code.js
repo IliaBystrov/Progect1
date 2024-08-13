@@ -167,33 +167,3 @@ function check(){
 function reset(){
     location.reload();
 }
-/*
-                <p>
-                    <h1 class="qustion">Вопрос 1:</h1>
-                    <h2 class="q_text">5+5*5=?</h2>
-                    <input type="text" class="answer" id="ans_1" placeholder="Введите ответ"></input>
-                </p>
-                <p>
-                    <h1 class="qustion">Вопрос 2:</h1>
-                    <h2 class="q_text">8*8-10=?</h2>
-                    <input type="number" class="answer" id="ans_2" placeholder="Введите ответ"></input>
-                </p>
-                <p>
-                    <h1 class="qustion">Вопрос 3:</h1>
-                    <h2 class="q_text">2^4=?</h2>
-                    <h2><input type="radio" class="radio_answer" name="answer" value="8"/>8</h2>
-                    <h2><input type="radio" class="radio_answer" name="answer" value="16"/>16</h2>
-                    <h2><input type="radio" class="radio_answer" name="answer" value="32"/>32</h2>
-                </p>
-                <p>
-                    <h1 class="qustion">Вопрос 4:</h1>
-                    <h2 class="q_text">5*10/2=?</h2>
-                    <select class="answer" id="ans_4">
-                        <option value="none">Выберите ответ</option>
-                        <option value="25">25</option>
-                        <option value="30">30</option>
-                        <option value="60">60</option>
-                        <option value="15">15</option>
-                    </select>
-                </p>
-*/
